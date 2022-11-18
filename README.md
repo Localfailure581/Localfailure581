@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Localfailure581
+- 🌱 I’m currently learning Javascript and Python
+- 💞️ I’m looking to collaborate on larger discord bots like mee6 and dyno.
+- 📫 How to reach me "local failure#0828" on discord
