@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm LocalFailure581, a software developer with a passion for building software applications and networking. I specialize in JavaScript, Python, and looking to learn fullstack soon, I'm always eager to learn new technologies.
+I'm LocalFailure581, a software developer with a passion for building software applications and networking. I specialize in JavaScript, Python, and looking to learn HTML soon, I'm always eager to learn new technologies.
 
 🔭 I’m currently working on...
 A simple gambling bot which you can find on my page
